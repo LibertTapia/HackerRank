@@ -1,0 +1,7 @@
+C:\Users\liber\source\repos\PlusMinus\bin\Debug\PlusMinus.exe.config
+C:\Users\liber\source\repos\PlusMinus\bin\Debug\PlusMinus.exe
+C:\Users\liber\source\repos\PlusMinus\bin\Debug\PlusMinus.pdb
+C:\Users\liber\source\repos\PlusMinus\obj\Debug\PlusMinus.csproj.CoreCompileInputs.cache
+C:\Users\liber\source\repos\PlusMinus\obj\Debug\PlusMinus.exe
+C:\Users\liber\source\repos\PlusMinus\obj\Debug\PlusMinus.pdb
+C:\Users\liber\source\repos\PlusMinus\obj\Debug\PlusMinus.csprojResolveAssemblyReference.cache

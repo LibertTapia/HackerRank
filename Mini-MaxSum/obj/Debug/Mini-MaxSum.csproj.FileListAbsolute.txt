@@ -1,0 +1,7 @@
+C:\Users\liber\source\repos\Mini-MaxSum\bin\Debug\Mini-MaxSum.exe.config
+C:\Users\liber\source\repos\Mini-MaxSum\bin\Debug\Mini-MaxSum.exe
+C:\Users\liber\source\repos\Mini-MaxSum\bin\Debug\Mini-MaxSum.pdb
+C:\Users\liber\source\repos\Mini-MaxSum\obj\Debug\Mini-MaxSum.csprojResolveAssemblyReference.cache
+C:\Users\liber\source\repos\Mini-MaxSum\obj\Debug\Mini-MaxSum.csproj.CoreCompileInputs.cache
+C:\Users\liber\source\repos\Mini-MaxSum\obj\Debug\Mini-MaxSum.exe
+C:\Users\liber\source\repos\Mini-MaxSum\obj\Debug\Mini-MaxSum.pdb

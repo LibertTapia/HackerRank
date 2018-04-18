@@ -1,0 +1,6 @@
+C:\Users\liber\source\repos\PrintBinary\PrintBinary\bin\Debug\PrintBinary.exe.config
+C:\Users\liber\source\repos\PrintBinary\PrintBinary\bin\Debug\PrintBinary.exe
+C:\Users\liber\source\repos\PrintBinary\PrintBinary\bin\Debug\PrintBinary.pdb
+C:\Users\liber\source\repos\PrintBinary\PrintBinary\obj\Debug\PrintBinary.csproj.CoreCompileInputs.cache
+C:\Users\liber\source\repos\PrintBinary\PrintBinary\obj\Debug\PrintBinary.exe
+C:\Users\liber\source\repos\PrintBinary\PrintBinary\obj\Debug\PrintBinary.pdb

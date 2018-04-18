@@ -1,0 +1,7 @@
+C:\Users\liber\source\repos\PrintBinary\NumberOfSubarraysWithBoundedMaximum\bin\Debug\NumberOfSubarraysWithBoundedMaximum.exe.config
+C:\Users\liber\source\repos\PrintBinary\NumberOfSubarraysWithBoundedMaximum\bin\Debug\NumberOfSubarraysWithBoundedMaximum.exe
+C:\Users\liber\source\repos\PrintBinary\NumberOfSubarraysWithBoundedMaximum\bin\Debug\NumberOfSubarraysWithBoundedMaximum.pdb
+C:\Users\liber\source\repos\PrintBinary\NumberOfSubarraysWithBoundedMaximum\obj\Debug\NumberOfSubarraysWithBoundedMaximum.csprojResolveAssemblyReference.cache
+C:\Users\liber\source\repos\PrintBinary\NumberOfSubarraysWithBoundedMaximum\obj\Debug\NumberOfSubarraysWithBoundedMaximum.csproj.CoreCompileInputs.cache
+C:\Users\liber\source\repos\PrintBinary\NumberOfSubarraysWithBoundedMaximum\obj\Debug\NumberOfSubarraysWithBoundedMaximum.exe
+C:\Users\liber\source\repos\PrintBinary\NumberOfSubarraysWithBoundedMaximum\obj\Debug\NumberOfSubarraysWithBoundedMaximum.pdb
