@@ -1,0 +1,7 @@
+C:\Users\liber\source\repos\Staircase\bin\Debug\Staircase.exe.config
+C:\Users\liber\source\repos\Staircase\bin\Debug\Staircase.exe
+C:\Users\liber\source\repos\Staircase\bin\Debug\Staircase.pdb
+C:\Users\liber\source\repos\Staircase\obj\Debug\Staircase.csproj.CoreCompileInputs.cache
+C:\Users\liber\source\repos\Staircase\obj\Debug\Staircase.exe
+C:\Users\liber\source\repos\Staircase\obj\Debug\Staircase.pdb
+C:\Users\liber\source\repos\Staircase\obj\Debug\Staircase.csprojResolveAssemblyReference.cache

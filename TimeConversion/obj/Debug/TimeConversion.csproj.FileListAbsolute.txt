@@ -1,0 +1,7 @@
+C:\Users\liber\source\repos\TimeConversion\bin\Debug\TimeConversion.exe.config
+C:\Users\liber\source\repos\TimeConversion\bin\Debug\TimeConversion.exe
+C:\Users\liber\source\repos\TimeConversion\bin\Debug\TimeConversion.pdb
+C:\Users\liber\source\repos\TimeConversion\obj\Debug\TimeConversion.csprojResolveAssemblyReference.cache
+C:\Users\liber\source\repos\TimeConversion\obj\Debug\TimeConversion.csproj.CoreCompileInputs.cache
+C:\Users\liber\source\repos\TimeConversion\obj\Debug\TimeConversion.exe
+C:\Users\liber\source\repos\TimeConversion\obj\Debug\TimeConversion.pdb
