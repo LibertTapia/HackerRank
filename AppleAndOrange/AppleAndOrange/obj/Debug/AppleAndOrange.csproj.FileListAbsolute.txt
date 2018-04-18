@@ -1,0 +1,7 @@
+C:\Users\liber\Dropbox\source\repos\AppleAndOrange\AppleAndOrange\bin\Debug\AppleAndOrange.exe.config
+C:\Users\liber\Dropbox\source\repos\AppleAndOrange\AppleAndOrange\bin\Debug\AppleAndOrange.exe
+C:\Users\liber\Dropbox\source\repos\AppleAndOrange\AppleAndOrange\bin\Debug\AppleAndOrange.pdb
+C:\Users\liber\Dropbox\source\repos\AppleAndOrange\AppleAndOrange\obj\Debug\AppleAndOrange.csprojResolveAssemblyReference.cache
+C:\Users\liber\Dropbox\source\repos\AppleAndOrange\AppleAndOrange\obj\Debug\AppleAndOrange.csproj.CoreCompileInputs.cache
+C:\Users\liber\Dropbox\source\repos\AppleAndOrange\AppleAndOrange\obj\Debug\AppleAndOrange.exe
+C:\Users\liber\Dropbox\source\repos\AppleAndOrange\AppleAndOrange\obj\Debug\AppleAndOrange.pdb
