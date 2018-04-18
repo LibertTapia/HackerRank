@@ -1,0 +1,7 @@
+C:\Users\liber\Dropbox\source\repos\Kangaroo\bin\Debug\Kangaroo.exe.config
+C:\Users\liber\Dropbox\source\repos\Kangaroo\bin\Debug\Kangaroo.exe
+C:\Users\liber\Dropbox\source\repos\Kangaroo\bin\Debug\Kangaroo.pdb
+C:\Users\liber\Dropbox\source\repos\Kangaroo\obj\Debug\Kangaroo.csprojResolveAssemblyReference.cache
+C:\Users\liber\Dropbox\source\repos\Kangaroo\obj\Debug\Kangaroo.csproj.CoreCompileInputs.cache
+C:\Users\liber\Dropbox\source\repos\Kangaroo\obj\Debug\Kangaroo.exe
+C:\Users\liber\Dropbox\source\repos\Kangaroo\obj\Debug\Kangaroo.pdb

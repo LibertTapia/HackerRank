@@ -1,0 +1,7 @@
+C:\Users\liber\Dropbox\source\repos\ConcealedSquare\ConcealedSquare\bin\Debug\ConcealedSquare.exe.config
+C:\Users\liber\Dropbox\source\repos\ConcealedSquare\ConcealedSquare\bin\Debug\ConcealedSquare.exe
+C:\Users\liber\Dropbox\source\repos\ConcealedSquare\ConcealedSquare\bin\Debug\ConcealedSquare.pdb
+C:\Users\liber\Dropbox\source\repos\ConcealedSquare\ConcealedSquare\obj\Debug\ConcealedSquare.csprojResolveAssemblyReference.cache
+C:\Users\liber\Dropbox\source\repos\ConcealedSquare\ConcealedSquare\obj\Debug\ConcealedSquare.csproj.CoreCompileInputs.cache
+C:\Users\liber\Dropbox\source\repos\ConcealedSquare\ConcealedSquare\obj\Debug\ConcealedSquare.exe
+C:\Users\liber\Dropbox\source\repos\ConcealedSquare\ConcealedSquare\obj\Debug\ConcealedSquare.pdb

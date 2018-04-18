@@ -1,0 +1,7 @@
+C:\Users\liber\Dropbox\source\repos\MigratoryBirds\MigratoryBirds\obj\Debug\MigratoryBirds.csproj.CoreCompileInputs.cache
+C:\Users\liber\Dropbox\source\repos\MigratoryBirds\MigratoryBirds\bin\Debug\MigratoryBirds.exe.config
+C:\Users\liber\Dropbox\source\repos\MigratoryBirds\MigratoryBirds\bin\Debug\MigratoryBirds.exe
+C:\Users\liber\Dropbox\source\repos\MigratoryBirds\MigratoryBirds\bin\Debug\MigratoryBirds.pdb
+C:\Users\liber\Dropbox\source\repos\MigratoryBirds\MigratoryBirds\obj\Debug\MigratoryBirds.exe
+C:\Users\liber\Dropbox\source\repos\MigratoryBirds\MigratoryBirds\obj\Debug\MigratoryBirds.pdb
+C:\Users\liber\Dropbox\source\repos\MigratoryBirds\MigratoryBirds\obj\Debug\MigratoryBirds.csprojResolveAssemblyReference.cache

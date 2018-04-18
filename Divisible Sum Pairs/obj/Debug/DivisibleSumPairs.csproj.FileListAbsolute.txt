@@ -1,0 +1,7 @@
+C:\Users\liber\Dropbox\source\repos\Divisible Sum Pairs\bin\Debug\DivisibleSumPairs.exe.config
+C:\Users\liber\Dropbox\source\repos\Divisible Sum Pairs\bin\Debug\DivisibleSumPairs.exe
+C:\Users\liber\Dropbox\source\repos\Divisible Sum Pairs\bin\Debug\DivisibleSumPairs.pdb
+C:\Users\liber\Dropbox\source\repos\Divisible Sum Pairs\obj\Debug\DivisibleSumPairs.csproj.CoreCompileInputs.cache
+C:\Users\liber\Dropbox\source\repos\Divisible Sum Pairs\obj\Debug\DivisibleSumPairs.exe
+C:\Users\liber\Dropbox\source\repos\Divisible Sum Pairs\obj\Debug\DivisibleSumPairs.pdb
+C:\Users\liber\Dropbox\source\repos\Divisible Sum Pairs\obj\Debug\DivisibleSumPairs.csprojResolveAssemblyReference.cache

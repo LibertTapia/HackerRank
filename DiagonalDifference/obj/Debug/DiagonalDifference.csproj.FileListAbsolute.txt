@@ -1,0 +1,7 @@
+C:\Users\liber\source\repos\DiagonalDifference\bin\Debug\DiagonalDifference.exe.config
+C:\Users\liber\source\repos\DiagonalDifference\bin\Debug\DiagonalDifference.exe
+C:\Users\liber\source\repos\DiagonalDifference\bin\Debug\DiagonalDifference.pdb
+C:\Users\liber\source\repos\DiagonalDifference\obj\Debug\DiagonalDifference.csprojResolveAssemblyReference.cache
+C:\Users\liber\source\repos\DiagonalDifference\obj\Debug\DiagonalDifference.csproj.CoreCompileInputs.cache
+C:\Users\liber\source\repos\DiagonalDifference\obj\Debug\DiagonalDifference.exe
+C:\Users\liber\source\repos\DiagonalDifference\obj\Debug\DiagonalDifference.pdb

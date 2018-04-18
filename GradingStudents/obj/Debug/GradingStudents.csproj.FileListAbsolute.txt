@@ -1,0 +1,7 @@
+C:\Users\liber\source\repos\GradingStudents\bin\Debug\GradingStudents.exe.config
+C:\Users\liber\source\repos\GradingStudents\bin\Debug\GradingStudents.exe
+C:\Users\liber\source\repos\GradingStudents\bin\Debug\GradingStudents.pdb
+C:\Users\liber\source\repos\GradingStudents\obj\Debug\GradingStudents.csproj.CoreCompileInputs.cache
+C:\Users\liber\source\repos\GradingStudents\obj\Debug\GradingStudents.exe
+C:\Users\liber\source\repos\GradingStudents\obj\Debug\GradingStudents.pdb
+C:\Users\liber\source\repos\GradingStudents\obj\Debug\GradingStudents.csprojResolveAssemblyReference.cache
