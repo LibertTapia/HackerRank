@@ -1,0 +1,7 @@
+C:\Users\liber\Dropbox\source\repos\BetweenTwoSets\obj\Debug\BetweenTwoSets.csproj.CoreCompileInputs.cache
+C:\Users\liber\Dropbox\source\repos\BetweenTwoSets\bin\Debug\BetweenTwoSets.exe.config
+C:\Users\liber\Dropbox\source\repos\BetweenTwoSets\bin\Debug\BetweenTwoSets.exe
+C:\Users\liber\Dropbox\source\repos\BetweenTwoSets\bin\Debug\BetweenTwoSets.pdb
+C:\Users\liber\Dropbox\source\repos\BetweenTwoSets\obj\Debug\BetweenTwoSets.exe
+C:\Users\liber\Dropbox\source\repos\BetweenTwoSets\obj\Debug\BetweenTwoSets.pdb
+C:\Users\liber\Dropbox\source\repos\BetweenTwoSets\obj\Debug\BetweenTwoSets.csprojResolveAssemblyReference.cache

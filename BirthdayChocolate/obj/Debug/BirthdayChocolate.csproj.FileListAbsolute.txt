@@ -1,0 +1,7 @@
+C:\Users\liber\Dropbox\source\repos\BirthdayChocolate\bin\Debug\BirthdayChocolate.exe.config
+C:\Users\liber\Dropbox\source\repos\BirthdayChocolate\bin\Debug\BirthdayChocolate.exe
+C:\Users\liber\Dropbox\source\repos\BirthdayChocolate\bin\Debug\BirthdayChocolate.pdb
+C:\Users\liber\Dropbox\source\repos\BirthdayChocolate\obj\Debug\BirthdayChocolate.csprojResolveAssemblyReference.cache
+C:\Users\liber\Dropbox\source\repos\BirthdayChocolate\obj\Debug\BirthdayChocolate.csproj.CoreCompileInputs.cache
+C:\Users\liber\Dropbox\source\repos\BirthdayChocolate\obj\Debug\BirthdayChocolate.exe
+C:\Users\liber\Dropbox\source\repos\BirthdayChocolate\obj\Debug\BirthdayChocolate.pdb

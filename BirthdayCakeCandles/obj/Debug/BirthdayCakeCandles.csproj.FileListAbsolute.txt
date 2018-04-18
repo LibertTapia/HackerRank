@@ -1,0 +1,6 @@
+C:\Users\liber\source\repos\BirthdayCakeCandles\bin\Debug\BirthdayCakeCandles.exe.config
+C:\Users\liber\source\repos\BirthdayCakeCandles\bin\Debug\BirthdayCakeCandles.exe
+C:\Users\liber\source\repos\BirthdayCakeCandles\bin\Debug\BirthdayCakeCandles.pdb
+C:\Users\liber\source\repos\BirthdayCakeCandles\obj\Debug\BirthdayCakeCandles.csproj.CoreCompileInputs.cache
+C:\Users\liber\source\repos\BirthdayCakeCandles\obj\Debug\BirthdayCakeCandles.exe
+C:\Users\liber\source\repos\BirthdayCakeCandles\obj\Debug\BirthdayCakeCandles.pdb
